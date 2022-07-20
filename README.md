@@ -15,6 +15,6 @@ Data citation [here.](https://www.kaggle.com/datasets/finkleiseinhorn/mlb-every-
 Spatial file used for geographical visualisations [here.](https://drive.google.com/file/d/1eYG0FfeZHBquyg-vH4QOV_pafGw0ASuK/view?usp=sharing) 
 
 ## Link to Tableau Storyboard
-Final analysis [here.](INSERT LINK)
+Final analysis [here.](https://public.tableau.com/views/FinalBaseballAnalysis_16582833640240/FinalBaseballAnalysis?:language=enUS&:display_count=n&:origin=viz_share_link)
 
 This does not include all aspects of the analysis, only the aspects prudent to the final results.
