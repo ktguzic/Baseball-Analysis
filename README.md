@@ -12,9 +12,9 @@ allhitters
 
 Data citation [here.](https://www.kaggle.com/datasets/finkleiseinhorn/mlb-every-player-in-mlb-history)
 
-Spatial file used for geographical visualisations [here.](us-states.json) 
-us-states.json
+Spatial file used for geographical visualisations [here.](https://drive.google.com/file/d/1eYG0FfeZHBquyg-vH4QOV_pafGw0ASuK/view?usp=sharing) 
 
 ## Link to Tableau Storyboard
-Final analysis [here.](https://www.kaggle.com/datasets/finkleiseinhorn/mlb-every-player-in-mlb-history)
+Final analysis [here.](INSERT LINK)
+
 This does not include all aspects of the analysis, only the aspects prudent to the final results.
