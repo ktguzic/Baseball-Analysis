@@ -1,13 +1,10 @@
 # Baseball-Analysis
 
-Baseball is all about the numbers. The team with the most runs at the end of the game wins. Let’s look back at the hitting statistics of baseball to see what leads to runs being scored. 
+Exploratory analysis to find trends in in the history of the hitting statistics of baseball
 ![](https://github.com/ktguzic/Baseball-Analysis/blob/5c48847299a80dec5e8f0cac7a9a5952254ef18d/baseball-bat-ball.jpg)
 
-## Objective
-
-
 ## Context
-
+Baseball is a game of numbers and exploring the past data may help predict future trends or, more importantly, show relationships between different statistics that may not be seen easily. The most important thing in baseball is scoring runs to win games. 
 
 ## Data:
 
@@ -18,5 +15,6 @@ Data citation [here.](https://www.kaggle.com/datasets/finkleiseinhorn/mlb-every-
 Spatial file used for geographical visualisations [here.](us-states.json) 
 us-states.json
 
-## Link to Tableau
-Here is the link to the final storyboard of the analysis. This does not include all aspects of the analysis, only the aspects prudent to the final results.
+## Link to Tableau Storyboard
+Final analysis [here.](https://www.kaggle.com/datasets/finkleiseinhorn/mlb-every-player-in-mlb-history)
+This does not include all aspects of the analysis, only the aspects prudent to the final results.
